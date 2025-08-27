@@ -1,0 +1,10 @@
+# 파이썬 패키 및 빌드관 파일
+build/
+*.egg-info/
+
+#jupyter 체크포인 파일
+.ipynb_checkpoints/
+
+#파이썬 바이코드 파일
+__pycache__/
+*.pyc
